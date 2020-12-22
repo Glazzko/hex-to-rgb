@@ -2,7 +2,7 @@
   "name": "hex-to-rgb",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://glazzko.github.io/hex-to-rgb",
+  "homepage": "https://Glazzko.github.io/hex-to-rgb",
   "devDependencies": {
     "react-scripts": "^0.9.5"
   },
