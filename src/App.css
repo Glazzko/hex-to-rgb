@@ -1,0 +1,43 @@
+.app {
+    background: green;
+    min-height: 100%;
+    min-width: 1024px;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: auto;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.input {
+    border-radius: 0;
+}
+
+.form {
+    display: block;
+    background: #d1d1d1;
+    min-width: 450px;
+    min-height: 100px;
+    padding: 1rem;
+    border-radius: 10px;
+    box-shadow: 0 16px 25px 0 rgba(0, 0, 0, 0.14),
+        0 12px 14px 0 rgba(0, 0, 0, 0.12), 0 11px 14px -6px rgba(0, 0, 0, 0.2);
+}
+
+.input {
+    background: #d1d1d1;
+    height: 20px;
+    color: #333;
+    min-width: 450px;
+}
+
+.help {
+    background: #d1d1d1;
+    font-size: 2rem;
+    text-align: center;
+}
